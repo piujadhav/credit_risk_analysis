@@ -1,3 +1,7 @@
+ HEAD
+# credit_risk_analysis
+A data analysis project focusing on predicting credit risk using various machine learning models. This repository contains a machine learning model to predict loan defaults based on historical data. An end-to-end data analytics project that explores loan data and builds predictive models for credit risk assessment.
+
 # Credit_risk_analysis_data_analysis
 Credit risk analysis data analysis - EDA
 
@@ -59,3 +63,4 @@ cb_preson_cred_hist_length: The length of credit history for the individual.
 
 5. Loan interest rate and loan amount has a positive effect on loan status being default, which means the larger these variables, the more likely the person is risky.
 
+ master
